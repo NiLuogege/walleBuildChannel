@@ -1,4 +1,6 @@
-##本文对 [使用Python脚本实现360加固后一键V2签名和Walle打出渠道包](https://blog.csdn.net/finddreams/article/details/78773687)中提供的工具进行了改进，改进和使用方式如下所示
+##[首先我们来一片该小工具的原理博客](https://blog.csdn.net/jason_2016/article/details/58137497)
+
+###本文对 [使用Python脚本实现360加固后一键V2签名和Walle打出渠道包](https://blog.csdn.net/finddreams/article/details/78773687)中提供的工具进行了改进，改进和使用方式如下所示
 
 #####改进
 1. 对python文件编码格式进行了设置，避免编码方式引起的错误
